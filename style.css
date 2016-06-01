@@ -12,23 +12,23 @@ nav {
 	}
 
 header {
-	background-color: red;
+
 
 }
 
 #main-content {
-	background-color: green;
+	
 
 }
 #left {
-	background-color: pink;
+	
 	width: 300px;
 	float: left;
 	background-image: url(https://www.quic.nyc/sites/quic.nyc/themes/quic_red/images/slide-image-1.jpg);
 	background-size: 100%;
 }
 #right {
-	background-color: purple;
+	
 	width: 300px;
 	float: left;
 
@@ -40,7 +40,7 @@ header {
 }
 
 footer {
-	background-color: blue;
+	
 	clear: both;
 }
 
