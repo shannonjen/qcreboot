@@ -1,6 +1,12 @@
+body{
+	font-family: Arial;
+	background-image: url(https://www.quic.nyc/sites/quic.nyc/themes/quic_red/images/slide-image-1.jpg);
+	color: white;
+}
 a {
 	text-decoration: none;
-	color: black;
+	color: white;
+	padding-right: 5px;
 }
 
 li {
@@ -8,35 +14,48 @@ li {
 	display: inline;
 }
 nav {
+	float: right;
 	
 	}
 
 header {
+	background-color: red;
+	height: 100%;
+	
 
+}
 
+#social {
+	position: fixed;
+	background-color: blue;
+	top: 100px;
 }
 
 #main-content {
-	
+	width: 700px;
+	margin: 0 auto;
 
 }
 #left {
-	
-	width: 300px;
+	clear: left;
+	width: 330px;
 	float: left;
-	background-image: url(https://www.quic.nyc/sites/quic.nyc/themes/quic_red/images/slide-image-1.jpg);
-	background-size: 100%;
+	background-size: cover;
+	padding: 10px;
+
 }
 #right {
 	
-	width: 300px;
+	width: 50%;
 	float: left;
+	width: 330px;
+	padding: 10px;
 
 
 }
 
 #logo {
-	
+	float: left;
 }
 
 footer {
