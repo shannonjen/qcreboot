@@ -1,11 +1,10 @@
 body{
 	font-family: Arial;
-	background-image: url(https://www.quic.nyc/sites/quic.nyc/themes/quic_red/images/slide-image-1.jpg);
-	color: white;
+	
 }
 a {
 	text-decoration: none;
-	color: white;
+	color: black;
 	padding-right: 5px;
 }
 
